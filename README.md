@@ -49,7 +49,9 @@ open up you local host and port
 
 ## Save pass:
 
-## save username and password
+# username
+# password
+
 
 
 ## Run from terminal:

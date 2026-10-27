@@ -217,7 +217,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-artifacts/
+artifacts/*
+!artifacts/model_trainer/
 data/inputImage.jpg
 *.zip
 runs/
