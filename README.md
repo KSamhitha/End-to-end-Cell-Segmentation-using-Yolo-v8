@@ -49,7 +49,7 @@ open up you local host and port
 
 ## Save pass:
 
-## add your azure container registry password
+## save username and password
 
 
 ## Run from terminal:
